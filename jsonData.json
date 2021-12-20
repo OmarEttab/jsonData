@@ -1,0 +1,112 @@
+{
+  "config" : {
+    "admob" : {
+      "admob_unit_id" : "",
+      "admob_banner_id" : "ca-app-pub-2883278490493954/8061526141",
+      "admob_interstitial_id" : "ca-app-pub-2883278490493954/3930709449",
+      "admob_native_id" : "ca-app-pub-2883278490493954/4226222919",
+      "admob_rewarded_id" : "ca-app-pub-2883278490493954/4860647738"
+    },
+    
+    "max" : {
+      "max_banner_id" : "",
+      "max_interstitial_id" : "",
+      "max_native_id" : "",
+      "max_rewarded_id" : ""
+    },
+	
+	"mopub" : {
+      "mopub_banner_id" : "df81ebc4f3314da091e7179fa8f18b3f",
+      "mopub_interstitial_id" : "c2e5c9e56dc345c5943960140dc391b8",
+      "mopub_native_id" : "8815b0b9b702436fa57c68b5c7e69b6f",
+      "mopub_rewarded_id" : "c8b40996b589473c938bd056cfe1aefd"
+    },
+    
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native" : "admob",
+    "mode_ads_rewarded" : "admob",
+    "one_signal_app_id" : "",
+
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=",
+      "update_msg" : "Update To Now Version",
+      "update_state" : false,
+      "update_action_text" : "Update",
+      "update_title" : "Update Now!"
+    },
+	
+	"cpa_activity" : {
+	   "cpabuild" : {
+        "cpabuild_offer_state" : false,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : "",
+        "cpabuild_offer_type" : "all"
+
+      },
+      "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : "",
+        "ogads_offer_type" : "all"
+
+      },
+      "local_offer" : {
+        "local_offer_state" : true
+      }
+	},
+	
+	"best_offers_activity" : {
+	    "ogads_app_install_state" : false,
+	    "local_offer_state" : true
+	}
+  },
+  "apps" : [
+    {
+      "id":"53173336",
+      "appName":"Super Squid World - Adventure Run and Jump game.",
+      "appIcon":"https://play-lh.googleusercontent.com/5gQZPZbFgaWETt2JzvpU-u82Pf-4CYkYDmQAD4ke4YoW8nvgZTq7t4LBRG6qHBgK1r8=s180-rw",
+      "appUrl":"https://play.google.com/store/apps/details?id=com.ramo.supersquid.world",
+      "appState":true,
+      "payout":"1.20",
+      "appCountry":"all"
+      }
+  ],
+  "tips" : [
+      {
+      "id" : 0,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "How To Move Left:",
+      "written" : "Step1: press "A" key on keyboard it's beetwen caps and S. Step2 : look at this key. Step3 : use something to press it Step4 : done."
+    },
+    {
+      "id" : 1,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "How To Stop Moving Left:",
+      "written" : "Step1 : stop clicking A key. Step2 : if you are hungry eat a loaf of coca-cola. Step3 : done."
+    },
+    {
+      "id" : 2,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "vip",
+      "title" : "How to glitch out of the map(real):",
+      "written" : "1) First, you need to get to the Make-A-Friend room, then close out the game and reload from the save point in there, once that is done go to the weird crab thing with the tube coming out of its mouth. 2) Jump on the screws that are on the tube's curve, and then jump on the tube. 3) From there, you'll need to jump on top of the crab structure then get behind it, you'll see a nice large void behind the machines. 4) Jump into the void. 5) A game over screen will quickly appear, then take you back to the entry to Make-A-Friend, this is as anticipated. 6) Turn around and you'll see that the conveyor belt has stopped working, meaning you can go up it now; do such, get jumpscared by the red lights, then soon you'll see a second ramp to your right where toys come out. 7) Go up that ramp, and the screen will go black. 8) Wiggle around with WASD for a minute, and if all goes well you'll fall into the void or on top of the map."
+    },
+    {
+      "id" : 3,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "vip",
+      "title" : "How To Glitch Huggy In The Vent Chase (chasing him): ",
+      "written" : "So once you complete the vent chase. You have a heart attack the door closes and Huggy Wuggy is running right toward you when the door opens slowly. Here's a tip/glitch you can do there! So once your there. Go to the corner of the trap-door. and afk. When Huggy Wuggy runs passed you, He wont jumpscare you. He will be running out of nowhere so you could start chasing HIM! and you can also see what happens when that door closes on him and of course.. when he gets crushed by the box. If you want to see how it looks or get more detail.. Click on the video below! (It also leaves some of the Vent Chase walkthrough. So watch it and pull it off!) https://www.youtube.com/watch?v=reTlQnfLaEI ."
+    },
+    {
+      "id" : 4,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "vip",
+      "title" : "How To Complete The Vent Chase scene :",
+      "written" : "A game over screen will quickly appear, then take you back to the entry to Make-A-Friend, this is as anticipated."
+    }
+  ]
+}
